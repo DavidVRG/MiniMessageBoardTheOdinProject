@@ -85,13 +85,3 @@ body{
 .inputField button:hover{
     background-color: #16274b;
 }
-
-/* FOOTER */
-footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-    text-align: center;
-    background-color: #101a31;
-}
